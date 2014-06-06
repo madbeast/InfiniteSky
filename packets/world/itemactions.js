@@ -773,7 +773,7 @@ ItemActions[0x0E] = function Recv_UnequipItemFromCharacter(client, input) {
         case 3: equipItem = 'Glove'; break; // Gloves
         case 4: equipItem = 'Ring'; break; // Ring
         case 5: equipItem = 'Boot'; break; // Boots
-        case 6: equipItem = 'CalbashBottle'; break; // Bootle
+        case 6: equipItem = 'CalbashBottle'; break; // Bottle
         case 7: equipItem = 'Weapon'; break; // Weapon
         case 8: equipItem = 'Pet'; break; // Pet
         default: break;
